@@ -66,8 +66,8 @@ I enjoy turning ideas into clean interfaces and improving them with JavaScript-d
 ## 📊 Stats
 
 <p align="center">
-  <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=PCB-faith-audi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PCB-faith-audi&layout=compact&theme=tokyonight&hide_border=true" />
+  <img alt="GitHub Stats" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PCB-faith-audi&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img alt="Top Languages" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PCB-faith-audi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -87,6 +87,7 @@ I’m open to discussing website projects, learning opportunities, and collabora
   <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:2563eb&height=120&section=footer" />
 </p>
 
+---
 ---
 <!--
 **PCB-faith-audi/PCB-faith-audi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
