@@ -39,7 +39,7 @@ I enjoy turning ideas into clean interfaces and improving them with JavaScript-d
 
 | Project | What it is | Deploy | Code |
 |---|---|---|---|
-| Personal Portfolio | My personal portfolio showcasing projects and skills. | Live (add link) | Repo (add link) |
+| Personal Portfolio | My personal portfolio showcasing projects and skills. | https://my-portfolio-website-opal-three.vercel.app/ | https://github.com/PCB-faith-audi/MY-PORTFOLIO-WEBSITE.git |
 | Green Scope | Eco-friendly platform to track sustainable projects + tips. | https://greenscope-ai-project.vercel.app/ | https://github.com/PCB-faith-audi/GREENSCOPE-AI-PROJECT |
 | EcoPulse (Final PLP Project) | PLP capstone project combining multiple web concepts. | https://plp-final-project-ecopulse.vercel.app/ | https://github.com/PCB-faith-audi/PLP-FINAL-PROJECT-ECOPULSE |
 
