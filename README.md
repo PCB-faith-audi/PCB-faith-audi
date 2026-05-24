@@ -32,6 +32,13 @@ I enjoy turning ideas into clean interfaces and improving them with JavaScript-d
 - Location: Nairobi, Kenya
 - Currently learning: Advanced CSS, JavaScript (and exploring React)
 - Looking for: Internships, junior roles, and real-world projects
+- 🎯 Currently focused on:
+
+* Advanced HTML & CSS
+* JavaScript interactivity
+* React fundamentals
+* Building real-world frontend projects
+
 
 ---
 
