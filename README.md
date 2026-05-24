@@ -22,6 +22,14 @@
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=PCB-faith-audi&style=for-the-badge&color=2563eb" />
 </p>
 
+🚀 Open to:
+
+* Frontend Developer Internships
+* Junior Web Developer Roles
+* Freelance Website Projects
+* Collaboration opportunities
+
+
 ---
 
 ## About Me
