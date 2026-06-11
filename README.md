@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faith Audisa</h1>
 <h3 align="center">Junior Frontend Developer | Building responsive web experiences with HTML, CSS & JavaScript | React Learner | Aspiring Commercial Pilot ✈️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pcb-faith-audi&label=Profile%20views&color=0e75b6&style=flat" alt="pcb-faith-audi" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pcb-faith-audi" alt="pcb-faith-audi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/foi audi" target="blank"><img src="https://img.shields.io/twitter/follow/foi audi?logo=twitter&style=for-the-badge" alt="foi audi" /></a> </p>
