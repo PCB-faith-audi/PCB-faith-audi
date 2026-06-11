@@ -41,7 +41,7 @@
 
 | EcoPulse (Final PLP Project) | PLP capstone project combining multiple web concepts. | https://plp-final-project-ecopulse.vercel.app/ | https://github.com/PCB-faith-audi/PLP-FINAL-PROJECT-ECOPULSE |
 
-
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pcb-faith-audi&show_icons=true&locale=en&layout=compact" alt="pcb-faith-audi" /></p>
 
