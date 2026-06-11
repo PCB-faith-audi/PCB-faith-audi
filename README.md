@@ -37,8 +37,14 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pcb-faith-audi&show_icons=true&locale=en&layout=compact" alt="pcb-faith-audi" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pcb-faith-audi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pcb-faith-audi" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pcb-faith-audi&show_icons=true&locale=en" alt="pcb-faith-audi" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pcb-faith-audi&show_icons=true&locale=en&theme=tokyonight" alt="pcb-faith-audi" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pcb-faith-audi&" alt="pcb-faith-audi" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pcb-faith-audi&theme=tokyonight" alt="pcb-faith-audi" />
+</p>
