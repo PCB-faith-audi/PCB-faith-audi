@@ -1,53 +1,36 @@
-<!-- GitHub Profile README (bright white/blue/black) -->
+<h1 align="center">Hi 👋, I'm Faith Audisa</h1>
+<h3 align="center">Junior Frontend Developer | Building responsive web experiences with HTML, CSS & JavaScript | React Learner | Aspiring Commercial Pilot ✈️</h3>
 
-<p align="center">
-  <img alt="Header" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:2563eb&height=170&section=header&text=Faith%20Audisa&fontSize=44&fontColor=ffffff&animation=fadeIn" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pcb-faith-audi&label=Profile%20views&color=0e75b6&style=flat" alt="pcb-faith-audi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pcb-faith-audi" alt="pcb-faith-audi" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/foi audi" target="blank"><img src="https://img.shields.io/twitter/follow/foi audi?logo=twitter&style=for-the-badge" alt="foi audi" /></a> </p>
+
+- 🔭 I’m currently working on **Personal Portfolio Website, Frontend Development Projects, React Learning Journey**
+
+- 🌱 I’m currently learning **React, Modern JavaScript, Frontend Best Practices, UI/UX Design Principles**
+
+- 👨‍💻 All of my projects are available at [https://my-portfolio-website-opal-three.vercel.app/](https://my-portfolio-website-opal-three.vercel.app/)
+
+- 💬 Ask me about **HTML, CSS, JavaScript, Responsive Design, Git & GitHub**
+
+- 📫 How to reach me **audisafaith@gmail.com**
+
+- ⚡ Fun fact **I build websites today and dream of flying commercial aircraft tomorrow ✈️**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/foi audi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="foi audi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/faith-audisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faith-audisa" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <b>Web Developer</b> • <b>Student</b> • <b>Aspiring Commercial Pilot</b>
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <a href="https://github.com/PCB-faith-audi"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-PCB--faith--audi-111827?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/faith-audisa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-faith--audisa-2563eb?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:audisafaith@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-audisafaith%40gmail.com-38bdf8?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pcb-faith-audi&show_icons=true&locale=en&layout=compact" alt="pcb-faith-audi" /></p>
 
-<p align="center">
-  <img alt="Typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&center=true&vCenter=true&width=720&lines=Building+clean%2C+interactive+websites;Learning+JavaScript+%26+advanced+CSS;Open+to+internships+and+junior+roles" />
-</p>
-
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=PCB-faith-audi&style=for-the-badge&color=2563eb" />
-</p>
-
-🚀 Open to:
-
-* Frontend Developer Internships
-* Junior Web Developer Roles
-* Freelance Website Projects
-* Collaboration opportunities
-
-
----
-
-## About Me
-
-I’m Faith Audisa, a web developer focused on building responsive, user-friendly websites.
-I enjoy turning ideas into clean interfaces and improving them with JavaScript-driven interactivity.
-
-- Location: Nairobi, Kenya
-- Currently learning: Advanced CSS, JavaScript (and exploring React)
-- Looking for: Internships, junior roles, and real-world projects
-- 🎯 Currently focused on:
-
-* Advanced HTML & CSS
-* JavaScript interactivity
-* React fundamentals
-* Building real-world frontend projects
-
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pcb-faith-audi&show_icons=true&locale=en" alt="pcb-faith-audi" /></p>
 ---
 
 ## 🚀 Featured Projects
@@ -60,61 +43,4 @@ I enjoy turning ideas into clean interfaces and improving them with JavaScript-d
 
 ---
 
-## 🛠 Tech Stack
-
-| Area | Tools |
-|---|---|
-| Core | HTML • CSS • JavaScript |
-| UI | Responsive Design • Accessibility • Forms |
-| Tools | Git & GitHub • VS Code • Chrome DevTools |
-
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=ffffff">
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-2563eb?style=for-the-badge&logo=css3&logoColor=ffffff">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-38bdf8?style=for-the-badge&logo=javascript&logoColor=111827">
-  <img alt="Git" src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=ffffff">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-2563eb?style=for-the-badge&logo=github&logoColor=ffffff">
-</p>
-
----
-
-## 📊 Stats
-
-<p align="center">
-  <img alt="GitHub Stats" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PCB-faith-audi&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img alt="Top Languages" height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PCB-faith-audi&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=PCB-faith-audi&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Let’s Collaborate
-
-I’m open to discussing website projects, learning opportunities, and collaborations.
-
-- Email: audisafaith@gmail.com
-- LinkedIn: https://www.linkedin.com/in/faith-audisa
-
-<p align="center">
-  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:2563eb&height=120&section=footer" />
-</p>
-
----
----
-<!--
-**PCB-faith-audi/PCB-faith-audi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pcb-faith-audi&" alt="pcb-faith-audi" /></p>
